@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/SM-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SM-manager" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SM-manager-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SM-manager-web-dubbo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SM-manager/SM-manager-dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SM-manager/SM-manager-pojo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SM-manager/SM-manager-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SM-manager/SM-manager-serviceImpl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SM-parent" charset="UTF-8" />
+  </component>
+</project>

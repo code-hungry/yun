@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" 
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<!--映射-->
+
+<mapper namespace="com.yh.mapper.ItemsMapper">
+    <!--使用动态语句进行查询-->
+    <sql id="query_items_where">
+        <if test="items!=null">
+            <if test="items.name!=null and items.name!=''">
+                name like "%${items.name}%"
+            </if>
+        </if>
+    </sql>
+
+
+    <sql id="Example_Where_Clause" >
+        <where >
+            <foreach collection="oredCriteria" item="criteria" separator="or" >
+                <if test="criteria.valid" >
+                    <trim prefix="(" suffix=")" prefixOverrides="and" >
+                        <foreach collection="criteria.criteria" item="criterion" >
+                            <choose >
+                                <when test="criterion.noValue" >
+                                    and ${criterion.condition}
+                                </when>
+                                <when test="criterion.singleValue" >
+                                    and ${criterion.condition} #{criterion.value}
+                                </when>
+                                <when test="criterion.betweenValue" >
+                                    and ${criterion.condition} #{criterion.value} and #{criterion.secondValue}
+                                </when>
+                                <when test="criterion.listValue" >
+                                    and ${criterion.condition}
+                                    <foreach collection="criterion.value" item="listItem" open="(" close=")" separator="," >
+                                        #{listItem}
+                                    </foreach>
+                                </when>
+                            </choose>
+                        </foreach>
+                    </trim>
+                </if>
+            </foreach>
+        </where>
+    </sql>
+
+    <select id="getItemsByItem" parameterType="com.yh.pojo.ItemsQueryVo" resultType="com.yh.pojo.Items">
+        select * from items
+        <where>
+            <include refid="query_items_where"></include>
+        </where>
+    </select>
+
+    <select id="findItemById" parameterType="Long" resultType="com.yh.pojo.Items">
+        select * from items where id=#{id}
+    </select>
+
+    <!--<if test="items.pic=!null and items.name!=''">pic=#{pic}</if>-->
+    <update id="updateItems" parameterType="com.yh.pojo.Items">
+        update items set name=#{name},price=#{price},createtime=#{createtime},pic=#{pic}
+         where id=#{id}
+    </update>
+
+    <delete id="deleteExample" parameterType="com.yh.pojo.ItemsExample">
+      delete from items
+       <if test="_parameter !=null">
+       <include refid="Example_Where_Clause"></include>
+      </if>
+    </delete>
+
+</mapper>

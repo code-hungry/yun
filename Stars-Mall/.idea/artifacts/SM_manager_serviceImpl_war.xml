@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SM-manager-serviceImpl:war">
+    <output-path>$PROJECT_DIR$/SM-manager/SM-manager-serviceImpl/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>SM-manager-serviceImpl</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="SM-manager-serviceImpl.war">
+      <element id="artifact" artifact-name="SM-manager-serviceImpl:war exploded" />
+    </root>
+  </artifact>
+</component>

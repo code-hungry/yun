@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+        "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+        "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+    <!-- class节点:类与表的映射关系  name:类的全路径   table:表名-->
+    <class name="com.entity.User" table="user">
+        <id name="id" column="id">
+            <!--主键生成策略-->
+            <generator class="uuid"></generator>
+        </id>
+        <property name="name" column="name"></property>
+        <property name="age" column="age"></property>
+        <property name="sex" column="sex"></property>
+        <property name="address" column="address"></property>
+        
+    </class>
+
+</hibernate-mapping>

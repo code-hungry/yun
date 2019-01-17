@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SM-common/SM-common.iml" filepath="$PROJECT_DIR$/SM-common/SM-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SM-manager/SM-manager.iml" filepath="$PROJECT_DIR$/SM-manager/SM-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SM-manager/SM-manager-dao/SM-manager-dao.iml" filepath="$PROJECT_DIR$/SM-manager/SM-manager-dao/SM-manager-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SM-manager/SM-manager-pojo/SM-manager-pojo.iml" filepath="$PROJECT_DIR$/SM-manager/SM-manager-pojo/SM-manager-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SM-manager/SM-manager-service/SM-manager-service.iml" filepath="$PROJECT_DIR$/SM-manager/SM-manager-service/SM-manager-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SM-manager/SM-manager-serviceImpl/SM-manager-serviceImpl.iml" filepath="$PROJECT_DIR$/SM-manager/SM-manager-serviceImpl/SM-manager-serviceImpl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SM-manager-web-dubbo/SM-manager-web-dubbo.iml" filepath="$PROJECT_DIR$/SM-manager-web-dubbo/SM-manager-web-dubbo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SM-parent/SM-parent.iml" filepath="$PROJECT_DIR$/SM-parent/SM-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/generatorSqlmapCustom/generatorSqlmapCustom.iml" filepath="$PROJECT_DIR$/generatorSqlmapCustom/generatorSqlmapCustom.iml" />
+    </modules>
+  </component>
+</project>

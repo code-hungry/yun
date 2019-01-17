@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://www.springframework.org/schema/beans"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xmlns:aop="http://www.springframework.org/schema/aop"
+       xmlns:tx="http://www.springframework.org/schema/tx"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-4.2.xsd http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-4.2.xsd http://www.springframework.org/schema/aop http://www.springframework.org/schema/aop/spring-aop-4.2.xsd http://www.springframework.org/schema/tx http://www.springframework.org/schema/tx/spring-tx-4.2.xsd ">
+    <!-- 加载properties配置文件 -->
+    <bean name="SSH" class="com.yh.action.UserAction" id="userAction">
+        <property name="us" ref="us"></property>
+    </bean>
+
+    <bean name="us" class="com.yh.service.impl.UserServiceImpl">
+        <property name="userDao" ref="userDao"></property>
+    </bean>
+    <bean name="userDao" class="com.yh.dao.impl.UserDaoImpl">
+        <!--第一种可以使用Spring整合Hibernate模板-->
+        <!-- <property name="hibernateTemplate" ref="hibernateTemplate"></property>-->
+        <!--第二种不用Hibernate模板  类继承 HibernateDaoSupport类  但是需要注入数据源-->
+        <property name="sessionFactory" ref="sessionFactory"></property>
+    </bean>
+    <!--<bean name="hibernateTemplate" class="org.springframework.orm.hibernate5.HibernateTemplate">
+        &lt;!&ndash;模板依赖sessionFactory&ndash;&gt;
+        <property name="sessionFactory" ref="sessionFactory"></property>
+    </bean>-->
+    <!--加载properties文件-->
+    <context:property-placeholder location="classpath:db.properties"></context:property-placeholder>
+
+    <!--spring整合hibernate    将Session交给Spring来管理-->
+    <bean name="sessionFactory" class="org.springframework.orm.hibernate5.LocalSessionFactoryBean">
+        <!--整合c3p0-->
+        <property name="dataSource" ref="ds"></property>
+        <!--一种方法在Spring中引入hibernate配置文件-->
+        <!--  <property name="configLocation" value="classpath:hibernate.cfg.xml"></property>
+  -->        <!--一种方法在Spring文件中配置hibernate内容-->
+        <property name="hibernateProperties">
+            <props>
+                <prop key="hibernate.dialect">org.hibernate.dialect.MySQLDialect</prop>
+                <!--  为体现封装    <prop key="hibernate.connection.driver_class">com.mysql.jdbc.Driver</prop>
+                  <prop key="hibernate.connection.url">jdbc:mysql:///songshan?characterEncoding=utf8</prop>
+                  <prop key="hibernate.connection.username">root</prop>
+                  <prop key="hibernate.connection.password">2222</prop>-->
+                <!--是否在控制台打印SQL语句-->
+                <prop key="hibernate.show_sql">true</prop>
+                <!-- 格式化Hibernate生成的sql语句 -->
+                <prop key="hibernate.format_sql">true</prop>
+                <!--自动建表-->
+                <prop key="hibernate.hbm2ddl.auto">update</prop>
+            </props>
+        </property>
+        <!---->
+        <property name="mappingDirectoryLocations" value="classpath:/com/yh/pojo"></property>
+    </bean>
+    <!--配置数据源-->
+    <bean name="ds" class="com.mchange.v2.c3p0.ComboPooledDataSource">
+        <property name="driverClass" value="${jdbc.driverClass}"></property>
+        <property name="jdbcUrl" value="${jdbc.url}"></property>
+        <property name="user" value="${jdbc.user}"></property>
+        <property name="password" value="${jdbc.password}"></property>
+    </bean>
+
+    <!--配置-->
+    <bean name="customerAction" class="com.yh.action.CustomerAction" id="customerAction">
+        <property name="customerService" ref="cs"></property>
+    </bean>
+    <bean name="cs" class="com.yh.service.impl.CustomerServiceImpl">
+        <property name="customerDao" ref="cd"></property>
+    </bean>
+    <bean name="cd" class="com.yh.dao.impl.CustomerDaoImpl">
+        <property name="sessionFactory" ref="sessionFactory"></property>
+    </bean>
+</beans>

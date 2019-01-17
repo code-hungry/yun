@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="SM-common" />
+        <module name="SM-manager-dao" />
+        <module name="SM-manager-pojo" />
+        <module name="SM-manager-service" />
+        <module name="SM-manager-serviceImpl" />
+        <module name="SM-manager-web-dubbo" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="SM-common" target="1.7" />
+      <module name="SM-manager" target="1.7" />
+      <module name="SM-manager-dao" target="1.7" />
+      <module name="SM-manager-pojo" target="1.7" />
+      <module name="SM-manager-service" target="1.7" />
+      <module name="SM-manager-serviceImpl" target="1.7" />
+      <module name="SM-manager-web" target="1.7" />
+      <module name="SM-manager-web-dubbo" target="1.7" />
+      <module name="SM-parent" target="1.7" />
+      <module name="SMmanager" target="1.5" />
+      <module name="SMmanagerweb" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

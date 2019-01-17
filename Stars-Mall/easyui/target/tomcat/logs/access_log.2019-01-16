@@ -1,0 +1,6 @@
+0:0:0:0:0:0:0:1 - - [16/Jan/2019:23:45:31 +0800] "GET / HTTP/1.1" 200 1096 http-bio-8081-exec-2 887
+0:0:0:0:0:0:0:1 - - [16/Jan/2019:23:45:31 +0800] "GET /$%7BpageContext.request.contextPath%7D/js/jquery-easyui-1.4.1/jquery.easyui.min.js HTTP/1.1" 404 1115 http-bio-8081-exec-4 10
+0:0:0:0:0:0:0:1 - - [16/Jan/2019:23:45:31 +0800] "GET /$%7BpageContext.request.contextPath%7D/js/jquery-easyui-1.4.1/themes/icon.css HTTP/1.1" 404 1105 http-bio-8081-exec-1 62
+0:0:0:0:0:0:0:1 - - [16/Jan/2019:23:45:31 +0800] "GET /$%7BpageContext.request.contextPath%7D/js/jquery-easyui-1.4.1/jquery.min.js HTTP/1.1" 404 1101 http-bio-8081-exec-3 7
+0:0:0:0:0:0:0:1 - - [16/Jan/2019:23:45:31 +0800] "GET /$%7BpageContext.request.contextPath%7D/js/jquery-easyui-1.4.1/themes/default/easyui.css HTTP/1.1" 404 1125 http-bio-8081-exec-5 3
+0:0:0:0:0:0:0:1 - - [16/Jan/2019:23:45:32 +0800] "GET /$%7BpageContext.request.contextPath%7D/js/jquery-easyui-1.4.1/jquery.easyui.min.js HTTP/1.1" 404 1115 http-bio-8081-exec-8 4

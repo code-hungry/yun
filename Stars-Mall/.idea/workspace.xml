@@ -1,0 +1,1262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="51956e5a-db06-4ea4-b2fa-c994574f6504" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SM-common/src/main/java/com/sm/common/pojo/EasyuiTreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SM-manager/SM-manager-dao/src/main/java/com/sm/mapper/TbItemCatMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SM-manager/SM-manager-dao/src/main/java/com/sm/mapper/TbItemCatMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SM-manager/SM-manager-dao/src/main/java/com/sm/mapper/TbItemDescMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SM-manager/SM-manager-dao/src/main/java/com/sm/mapper/TbItemDescMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SM-manager/SM-manager-dao/src/main/java/com/sm/mapper/TbItemMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SM-manager/SM-manager-dao/src/main/java/com/sm/mapper/TbItemMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SM-manager/SM-manager-dao/src/main/java/com/sm/mapper/TbItemParamItemMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SM-manager/SM-manager-dao/src/main/java/com/sm/mapper/TbItemParamItemMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SM-manager/SM-manager-dao/src/main/java/com/sm/mapper/TbItemParamMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SM-manager/SM-manager-dao/src/main/java/com/sm/mapper/TbItemParamMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SM-manager/SM-manager-pojo/src/main/java/com/sm/pojo/TbItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SM-manager/SM-manager-pojo/src/main/java/com/sm/pojo/TbItemCat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SM-manager/SM-manager-pojo/src/main/java/com/sm/pojo/TbItemCatExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SM-manager/SM-manager-pojo/src/main/java/com/sm/pojo/TbItemDesc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SM-manager/SM-manager-pojo/src/main/java/com/sm/pojo/TbItemDescExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SM-manager/SM-manager-pojo/src/main/java/com/sm/pojo/TbItemExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SM-manager/SM-manager-pojo/src/main/java/com/sm/pojo/TbItemParam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SM-manager/SM-manager-pojo/src/main/java/com/sm/pojo/TbItemParamExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SM-manager/SM-manager-pojo/src/main/java/com/sm/pojo/TbItemParamItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SM-manager/SM-manager-pojo/src/main/java/com/sm/pojo/TbItemParamItemExample.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/SM-parent/target/" />
+    <ignored path="$PROJECT_DIR$/SM-common/target/" />
+    <ignored path="$PROJECT_DIR$/SMmanager/target/" />
+    <ignored path="$PROJECT_DIR$/SMmanagerweb/target/" />
+    <ignored path="$PROJECT_DIR$/SM-manager-web/target/" />
+    <ignored path="$PROJECT_DIR$/SM-manager/target/" />
+    <ignored path="$PROJECT_DIR$/SM-manager/SM-manager-pojo/target/" />
+    <ignored path="$PROJECT_DIR$/SM-manager/SM-manager-service/target/" />
+    <ignored path="$PROJECT_DIR$/SM-manager/SM-manager-serviceImpl/target/" />
+    <ignored path="$PROJECT_DIR$/SM-manager/SM-manager-dao/target/" />
+    <ignored path="$PROJECT_DIR$/SM-manager-web-dubbo/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Stars-Mall" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SM-manager/SM-manager-serviceImpl/src/main/resources/spring/applicationContext-tx.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="448">
+              <caret line="16" column="70" selection-start-line="16" selection-start-column="70" selection-end-line="16" selection-end-column="70" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SM-manager/SM-manager-serviceImpl/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="924">
+              <caret line="33" column="21" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SM-manager-web-dubbo/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1820">
+              <caret line="65" selection-start-line="65" selection-end-line="65" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SM-manager/SM-manager-serviceImpl/src/main/resources/spring/applicationContext-service.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="28" column="8" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SM-manager/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SM-manager-web-dubbo/src/main/resources/springmvc.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1120">
+              <caret line="40" column="59" selection-start-line="40" selection-start-column="59" selection-end-line="40" selection-end-column="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/generatorSqlmapCustom/src/com/sm/pojo/TbItemCatExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="XML Properties File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/SM-manager/SM-manager-pojo/pom.xml" />
+        <option value="$PROJECT_DIR$/SM-common/pom.xml" />
+        <option value="$PROJECT_DIR$/SM-manager/SM-manager-dao/pom.xml" />
+        <option value="$PROJECT_DIR$/SM-manager/SM-manager-service/pom.xml" />
+        <option value="$PROJECT_DIR$/SM-manager-web/pom.xml" />
+        <option value="$PROJECT_DIR$/SM-manager/SM-manager-serviceImpl/src/main/resources/mybatis/SqlMapConfig.xml.xml" />
+        <option value="$PROJECT_DIR$/SM-manager-web-dubbo/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/SM-manager-web-dubbo/src/main/java/com/sm/controller/PageController.java" />
+        <option value="$PROJECT_DIR$/SM-manager/SM-manager-serviceImpl/src/main/resources/properties/db.properties" />
+        <option value="$PROJECT_DIR$/generatorSqlmapCustom/src/com/sm/pojo/TbItem.java" />
+        <option value="$PROJECT_DIR$/generatorSqlmapCustom/generatorConfig.xml" />
+        <option value="$PROJECT_DIR$/generatorSqlmapCustom/src/GeneratorSqlmap.java" />
+        <option value="$PROJECT_DIR$/generatorSqlmapCustom/src/com/sm/pojo/TbItemParamExample.java" />
+        <option value="$PROJECT_DIR$/SM-manager/SM-manager-service/src/main/java/com/sm/service/ItemCatService.java" />
+        <option value="$PROJECT_DIR$/SM-manager-web-dubbo/src/main/java/com/sm/controller/ItemCatController.java" />
+        <option value="$PROJECT_DIR$/SM-manager/SM-manager-serviceImpl/src/main/java/com/sm/serviceImpl/ItemCatServiceImpl.java" />
+        <option value="$PROJECT_DIR$/SM-common/src/main/java/com/sm/common/pojo/EasyuiTreeNode.java" />
+        <option value="$PROJECT_DIR$/SM-manager/SM-manager-pojo/src/main/java/com/sm/pojo/TbItem.java" />
+        <option value="$PROJECT_DIR$/SM-manager/SM-manager-serviceImpl/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/SM-manager/SM-manager-pojo/src/main/java/com/sm/pojo/TbItemCat.java" />
+        <option value="$PROJECT_DIR$/SM-manager/SM-manager-pojo/src/main/java/com/sm/pojo/TbItemParam.java" />
+        <option value="$PROJECT_DIR$/SM-manager/SM-manager-pojo/src/main/java/com/sm/pojo/TbItemCatExample.java" />
+        <option value="$PROJECT_DIR$/SM-manager/SM-manager-pojo/src/main/java/com/sm/pojo/TbItemDesc.java" />
+        <option value="$PROJECT_DIR$/SM-manager/SM-manager-serviceImpl/src/main/java/com/sm/service/impl/ItemCatServiceImpl.java" />
+        <option value="$PROJECT_DIR$/SM-manager-web-dubbo/pom.xml" />
+        <option value="$PROJECT_DIR$/SM-manager/pom.xml" />
+        <option value="$PROJECT_DIR$/SM-manager/SM-manager-serviceImpl/pom.xml" />
+        <option value="$PROJECT_DIR$/SM-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/SM-manager/SM-manager-serviceImpl/src/main/resources/spring/applicationContext-dao.xml" />
+        <option value="$PROJECT_DIR$/SM-manager-web-dubbo/src/main/resources/springmvc.xml" />
+        <option value="$PROJECT_DIR$/SM-manager/SM-manager-serviceImpl/src/main/resources/spring/applicationContext-service.xml" />
+        <option value="$PROJECT_DIR$/SM-manager/SM-manager-serviceImpl/src/main/resources/spring/applicationContext-tx.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/APP/apache-maven-3.5.0" />
+        <option name="userSettingsFile" value="D:\APP\settings.xml" />
+        <option name="workOffline" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="260" />
+    <option name="y" value="20" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Stars-Mall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SM-manager" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Stars-Mall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SM-parent" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="directory" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547642492543" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2245345" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalResources" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\idea\Stars-Mall\SM-manager-web-dubbo\src\main\resources\spring" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\idea\Stars-Mall\SM-manager\SM-manager-dao\src\main\java\com\sm\mapper" />
+      <recent name="E:\idea\Stars-Mall\SM-manager\SM-manager-pojo\src\main\java\com\sm\pojo" />
+      <recent name="E:\idea\Stars-Mall\SM-manager-web-dubbo\src\main\webapp" />
+      <recent name="E:\idea\Stars-Mall\SM-manager-web-dubbo\src\main\webapp\WEB-INF" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Maven.SM-manager-web-dubbo [clean,tomcat7:run]">
+    <configuration name="GeneratorSqlmap" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GeneratorSqlmap" />
+      <module name="generatorSqlmapCustom" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/generatorSqlmapCustom" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SM-manager [clean,tomcat7:run]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/SM-manager" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="SM-manager-web-dubbo [clean,tomcat7:run]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/SM-manager-web-dubbo" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.GeneratorSqlmap" />
+      <item itemvalue="Maven.SM-manager-web-dubbo [clean,tomcat7:run]" />
+      <item itemvalue="Maven.SM-manager [clean,tomcat7:run]" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration useDefault="false">C:\Program Files\TortoiseSVN</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="51956e5a-db06-4ea4-b2fa-c994574f6504" name="Default Changelist" comment="" />
+      <created>1547190926307</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1547190926307</updated>
+      <workItem from="1547190939752" duration="8183000" />
+      <workItem from="1547426019103" duration="22965000" />
+      <workItem from="1547511921095" duration="9077000" />
+      <workItem from="1547531557988" duration="9975000" />
+      <workItem from="1547544624175" duration="10110000" />
+      <workItem from="1547598623889" duration="9833000" />
+      <workItem from="1547615724691" duration="644000" />
+      <workItem from="1547616392128" duration="8618000" />
+      <workItem from="1547626081627" duration="12582000" />
+      <workItem from="1547646210013" duration="260000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="92247000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4994401" visible="true" weight="0.1735925" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.5005599" side_tool="true" weight="0.18763326" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.32980973" />
+      <window_info anchor="bottom" id="Spring" order="1" weight="0.32936078" />
+      <window_info anchor="bottom" id="Message" order="2" />
+      <window_info anchor="bottom" id="Find" order="3" />
+      <window_info anchor="bottom" id="Run" order="4" weight="0.23076923" />
+      <window_info anchor="bottom" id="Debug" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="8" weight="0.32827735" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32827735" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50053304" side_tool="true" weight="0.3282123" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.32827735" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="SVN Repositories" order="14" sideWeight="0.49946696" weight="0.32827735" />
+      <window_info anchor="bottom" id="Version Control" order="15" weight="0.32936078" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" visible="true" weight="0.31367293" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18550107" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.32980973" />
+      <window_info anchor="bottom" id="Spring" order="1" weight="0.32936078" />
+      <window_info anchor="bottom" id="Message" order="2" />
+      <window_info anchor="bottom" id="Find" order="3" />
+      <window_info active="true" anchor="bottom" id="Run" order="4" visible="true" weight="0.3336945" />
+      <window_info anchor="bottom" id="Debug" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="8" weight="0.32827735" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32827735" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50053304" side_tool="true" weight="0.32900432" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.32827735" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="SVN Repositories" order="14" sideWeight="0.49946696" weight="0.32827735" />
+      <window_info anchor="bottom" id="Version Control" order="15" weight="0.32936078" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" visible="true" weight="0.1444563" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/generatorSqlmapCustom/generatorConfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="829">
+          <caret line="55" column="54" selection-start-line="55" selection-start-column="54" selection-end-line="55" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generatorSqlmapCustom/src/GeneratorSqlmap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="18" column="65" selection-start-line="18" selection-start-column="65" selection-end-line="18" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SM-manager-web-dubbo/src/main/webapp/WEB-INF/jsp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SM-manager-web-dubbo/src/main/webapp/WEB-INF/jsp/item-add.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="31" lean-forward="true" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SM-manager-web-dubbo/src/main/webapp/js/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="122" column="47" selection-start-line="122" selection-start-column="33" selection-end-line="122" selection-end-column="47" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SM-manager/SM-manager-pojo/src/main/java/com/sm/pojo/TbItemExample.java" />
+    <entry file="file://$PROJECT_DIR$/SM-manager/SM-manager-pojo/src/main/java/com/sm/pojo/TbItemParamItem.java" />
+    <entry file="file://$PROJECT_DIR$/SM-manager/SM-manager-pojo/src/main/java/com/sm/pojo/TbItemParamExample.java" />
+    <entry file="file://$PROJECT_DIR$/SM-manager/SM-manager-pojo/src/main/java/com/sm/pojo/TbItemDescExample.java" />
+    <entry file="file://$PROJECT_DIR$/SM-manager/SM-manager-pojo/src/main/java/com/sm/pojo/TbItemParamItemExample.java" />
+    <entry file="file://$PROJECT_DIR$/SM-manager/SM-manager-dao/src/main/java/com/sm/mapper/TbItemMapper.xml" />
+    <entry file="file://$PROJECT_DIR$/SM-manager/SM-manager-dao/src/main/java/com/sm/mapper/TbItemParamMapper.xml" />
+    <entry file="file://$PROJECT_DIR$/SM-manager/SM-manager-dao/src/main/java/com/sm/mapper/TbItemParamItemMapper.xml" />
+    <entry file="file://$PROJECT_DIR$/SM-manager/SM-manager-dao/src/main/java/com/sm/mapper/TbItemCatMapper.xml" />
+    <entry file="file://$PROJECT_DIR$/SM-manager/SM-manager-dao/src/main/java/com/sm/mapper/TbItemDescMapper.xml" />
+    <entry file="file://$PROJECT_DIR$/SM-manager/SM-manager-dao/src/main/java/com/sm/mapper/TbItemMapper.java" />
+    <entry file="file://$PROJECT_DIR$/SM-manager/SM-manager-dao/src/main/java/com/sm/mapper/TbItemCatMapper.java" />
+    <entry file="file://$PROJECT_DIR$/SM-manager/SM-manager-dao/src/main/java/com/sm/mapper/TbItemParamMapper.java" />
+    <entry file="file://$PROJECT_DIR$/SM-manager/SM-manager-dao/src/main/java/com/sm/mapper/TbItemDescMapper.java" />
+    <entry file="file://$PROJECT_DIR$/SM-manager/SM-manager-dao/src/main/java/com/sm/mapper/TbItemParamItemMapper.java" />
+    <entry file="file://$PROJECT_DIR$/SM-common/src/main/java/com/sm/common/pojo/EasyuiTreeNode.java" />
+    <entry file="file://$PROJECT_DIR$/SM-manager/SM-manager-pojo/src/main/java/com/sm/pojo/TbItem.java" />
+    <entry file="file://$PROJECT_DIR$/generatorSqlmapCustom/src/com/sm/mapper/TbItemCatMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SM-manager/SM-manager-pojo/src/main/java/com/sm/pojo/TbItemParam.java" />
+    <entry file="file://$PROJECT_DIR$/SM-manager/SM-manager-pojo/src/main/java/com/sm/pojo/TbItemCat.java" />
+    <entry file="file://$PROJECT_DIR$/SM-manager/SM-manager-pojo/src/main/java/com/sm/pojo/TbItemCatExample.java" />
+    <entry file="file://$PROJECT_DIR$/SM-manager/SM-manager-pojo/src/main/java/com/sm/pojo/TbItemDesc.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/1.2.2/mybatis-spring-1.2.2-sources.jar!/org/mybatis/spring/mapper/MapperScannerConfigurer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="112" column="35" lean-forward="true" selection-start-line="112" selection-start-column="35" selection-end-line="112" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SM-manager-web-dubbo/src/main/java/com/sm/controller/PageController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SM-manager-web-dubbo/src/main/java/com/sm/controller/ItemCatController.java" />
+    <entry file="file://$PROJECT_DIR$/SM-manager/SM-manager-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-441" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SM-manager/SM-manager-pojo/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SM-manager/SM-manager-serviceImpl/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SM-manager/SM-manager-service/src/main/java/com/sm/service/ItemCatService.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3.jar!/META-INF/dubbo.xsd">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/APP/dubbo/dubbo.xsd" />
+    <entry file="file://$PROJECT_DIR$/SM-manager/SM-manager-serviceImpl/src/main/resources/properties/db.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://MAVEN/com.cosmos:SM-manager-serviceImpl:1.0-SNAPSHOT">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>com.cosmos:SM-manager-serviceImpl:1.0-SNAPSHOT</OriginalElement>
+          <nodes>
+            <node x="" y="">com.cosmos:SM-manager-serviceImpl:1.0-SNAPSHOT</node>
+            <node x="" y="">com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT</node>
+            <node x="" y="">com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/com.cosmos:SM-common:jar:1.0-SNAPSHOT</node>
+            <node x="" y="">com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/com.cosmos:SM-common:jar:1.0-SNAPSHOT/joda-time:joda-time:jar:2.5</node>
+            <node x="" y="">com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/com.cosmos:SM-common:jar:1.0-SNAPSHOT/org.apache.commons:commons-lang3:jar:3.3.2</node>
+            <node x="" y="">com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/com.cosmos:SM-common:jar:1.0-SNAPSHOT/commons-fileupload:commons-fileupload:jar:1.3.1</node>
+            <node x="" y="">com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/com.cosmos:SM-common:jar:1.0-SNAPSHOT/commons-fileupload:commons-fileupload:jar:1.3.1/commons-io:commons-io:jar:2.2</node>
+            <node x="" y="">com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/com.cosmos:SM-common:jar:1.0-SNAPSHOT/commons-io:commons-io:jar:1.3.2</node>
+            <node x="" y="">com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/com.cosmos:SM-common:jar:1.0-SNAPSHOT/commons-net:commons-net:jar:3.3</node>
+            <node x="" y="">com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/com.cosmos:SM-common:jar:1.0-SNAPSHOT/com.fasterxml.jackson.core:jackson-databind:jar:2.4.2</node>
+            <node x="" y="">com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/com.cosmos:SM-common:jar:1.0-SNAPSHOT/com.fasterxml.jackson.core:jackson-databind:jar:2.4.2/com.fasterxml.jackson.core:jackson-annotations:jar:2.4.0</node>
+            <node x="" y="">com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/com.cosmos:SM-common:jar:1.0-SNAPSHOT/com.fasterxml.jackson.core:jackson-databind:jar:2.4.2/com.fasterxml.jackson.core:jackson-core:jar:2.4.2</node>
+            <node x="" y="">com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/com.cosmos:SM-common:jar:1.0-SNAPSHOT/com.googlecode.json-simple:json-simple:jar:1.1.1</node>
+            <node x="" y="">com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/com.cosmos:SM-common:jar:1.0-SNAPSHOT/com.googlecode.json-simple:json-simple:jar:1.1.1/junit:junit:jar:4.12</node>
+            <node x="" y="">com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/com.cosmos:SM-common:jar:1.0-SNAPSHOT/com.googlecode.json-simple:json-simple:jar:1.1.1/junit:junit:jar:4.12/org.hamcrest:hamcrest-core:jar:1.3</node>
+            <node x="" y="">com.cosmos:SM-manager-dao:jar:1.0-SNAPSHOT</node>
+            <node x="" y="">com.cosmos:SM-manager-dao:jar:1.0-SNAPSHOT/com.cosmos:SM-manager-pojo:jar:1.0-SNAPSHOT</node>
+            <node x="" y="">com.cosmos:SM-manager-dao:jar:1.0-SNAPSHOT/org.mybatis:mybatis:jar:3.2.8</node>
+            <node x="" y="">com.cosmos:SM-manager-dao:jar:1.0-SNAPSHOT/org.mybatis:mybatis-spring:jar:1.2.2</node>
+            <node x="" y="">com.cosmos:SM-manager-dao:jar:1.0-SNAPSHOT/com.github.miemiedev:mybatis-paginator:jar:1.2.15</node>
+            <node x="" y="">com.cosmos:SM-manager-dao:jar:1.0-SNAPSHOT/com.github.miemiedev:mybatis-paginator:jar:1.2.15/org.slf4j:slf4j-api:jar:1.7.2</node>
+            <node x="" y="">com.cosmos:SM-manager-dao:jar:1.0-SNAPSHOT/com.github.pagehelper:pagehelper:jar:3.7.5</node>
+            <node x="" y="">com.cosmos:SM-manager-dao:jar:1.0-SNAPSHOT/com.github.pagehelper:pagehelper:jar:3.7.5/com.github.jsqlparser:jsqlparser:jar:0.9.1</node>
+            <node x="" y="">com.cosmos:SM-manager-dao:jar:1.0-SNAPSHOT/mysql:mysql-connector-java:jar:5.1.32</node>
+            <node x="" y="">com.cosmos:SM-manager-dao:jar:1.0-SNAPSHOT/com.alibaba:druid:jar:1.0.10</node>
+            <node x="" y="">org.springframework:spring-context:jar:4.1.3.RELEASE</node>
+            <node x="" y="">org.springframework:spring-context:jar:4.1.3.RELEASE/org.springframework:spring-aop:jar:4.1.3.RELEASE</node>
+            <node x="" y="">org.springframework:spring-context:jar:4.1.3.RELEASE/org.springframework:spring-aop:jar:4.1.3.RELEASE/aopalliance:aopalliance:jar:1.0</node>
+            <node x="" y="">org.springframework:spring-context:jar:4.1.3.RELEASE/org.springframework:spring-core:jar:4.1.3.RELEASE</node>
+            <node x="" y="">org.springframework:spring-context:jar:4.1.3.RELEASE/org.springframework:spring-core:jar:4.1.3.RELEASE/commons-logging:commons-logging:jar:1.2</node>
+            <node x="" y="">org.springframework:spring-context:jar:4.1.3.RELEASE/org.springframework:spring-expression:jar:4.1.3.RELEASE</node>
+            <node x="" y="">org.springframework:spring-beans:jar:4.1.3.RELEASE</node>
+            <node x="" y="">org.springframework:spring-webmvc:jar:4.1.3.RELEASE</node>
+            <node x="" y="">org.springframework:spring-webmvc:jar:4.1.3.RELEASE/org.springframework:spring-web:jar:4.1.3.RELEASE</node>
+            <node x="" y="">org.springframework:spring-jdbc:jar:4.1.3.RELEASE</node>
+            <node x="" y="">org.springframework:spring-jdbc:jar:4.1.3.RELEASE/org.springframework:spring-tx:jar:4.1.3.RELEASE</node>
+            <node x="" y="">org.springframework:spring-aspects:jar:4.1.3.RELEASE</node>
+            <node x="" y="">org.springframework:spring-aspects:jar:4.1.3.RELEASE/org.aspectj:aspectjweaver:jar:1.8.4</node>
+            <node x="" y="">org.springframework:spring-context-support:jar:4.1.3.RELEASE</node>
+            <node x="" y="">com.alibaba:dubbo:jar:2.5.3</node>
+            <node x="" y="">com.alibaba:dubbo:jar:2.5.3/org.springframework:spring:jar:2.5.6.SEC03</node>
+            <node x="" y="">com.alibaba:dubbo:jar:2.5.3/org.springframework:spring:jar:2.5.6.SEC03/commons-logging:commons-logging:jar:1.1.1</node>
+            <node x="" y="">com.alibaba:dubbo:jar:2.5.3/org.javassist:javassist:jar:3.15.0-GA</node>
+            <node x="" y="">com.alibaba:dubbo:jar:2.5.3/org.jboss.netty:netty:jar:3.2.5.Final</node>
+            <node x="" y="">org.apache.zookeeper:zookeeper:jar:3.4.7</node>
+            <node x="" y="">org.apache.zookeeper:zookeeper:jar:3.4.7/org.slf4j:slf4j-api:jar:1.6.1</node>
+            <node x="" y="">org.apache.zookeeper:zookeeper:jar:3.4.7/org.slf4j:slf4j-log4j12:jar:1.6.4</node>
+            <node x="" y="">org.apache.zookeeper:zookeeper:jar:3.4.7/log4j:log4j:jar:1.2.16</node>
+            <node x="" y="">org.apache.zookeeper:zookeeper:jar:3.4.7/jline:jline:jar:0.9.94</node>
+            <node x="" y="">org.apache.zookeeper:zookeeper:jar:3.4.7/io.netty:netty:jar:3.7.0.Final</node>
+            <node x="" y="">com.github.sgroschupf:zkclient:jar:0.1</node>
+            <node x="" y="">com.github.sgroschupf:zkclient:jar:0.1/log4j:log4j:jar:1.2.14</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0975240715268224" x="1706.0" y="424.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>All</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SM-common/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SM-manager/SM-manager-serviceImpl/src/main/resources/spring/applicationContext-dao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="9" column="64" selection-start-line="9" selection-start-column="64" selection-end-line="9" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SM-manager/SM-manager-serviceImpl/src/main/java/com/sm/service/impl/ItemCatServiceImpl.java" />
+    <entry file="file://$PROJECT_DIR$/SM-manager/SM-manager-serviceImpl/src/main/resources/mybatis/SqlMapConfig.xml" />
+    <entry file="uml://MAVEN/com.cosmos:SM-manager-web-dubbo:1.0-SNAPSHOT">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>com.cosmos:SM-manager-web-dubbo:1.0-SNAPSHOT</OriginalElement>
+          <nodes>
+            <node x="386.82744598765476" y="740.0">com.cosmos:SM-manager-web-dubbo:1.0-SNAPSHOT</node>
+            <node x="30.0" y="650.0">junit:junit:jar:4.11</node>
+            <node x="0.0" y="550.0">junit:junit:jar:4.11/org.hamcrest:hamcrest-core:jar:1.3</node>
+            <node x="575.2336959876549" y="650.0">com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT</node>
+            <node x="1418.7336959876548" y="550.0">com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/com.cosmos:SM-manager-dao:jar:1.0-SNAPSHOT</node>
+            <node x="1635.34375" y="450.0">com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/com.cosmos:SM-manager-dao:jar:1.0-SNAPSHOT/com.cosmos:SM-manager-pojo:jar:1.0-SNAPSHOT</node>
+            <node x="1555.46875" y="370.0">com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/com.cosmos:SM-manager-dao:jar:1.0-SNAPSHOT/org.mybatis:mybatis:jar:3.2.8</node>
+            <node x="1239.71875" y="450.0">com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/com.cosmos:SM-manager-dao:jar:1.0-SNAPSHOT/org.mybatis:mybatis-spring:jar:1.2.2</node>
+            <node x="1461.71875" y="450.0">com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/com.cosmos:SM-manager-dao:jar:1.0-SNAPSHOT/com.github.miemiedev:mybatis-paginator:jar:1.2.15</node>
+            <node x="1457.46875" y="370.0">com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/com.cosmos:SM-manager-dao:jar:1.0-SNAPSHOT/com.github.miemiedev:mybatis-paginator:jar:1.2.15/org.slf4j:slf4j-api:jar:1.7.2</node>
+            <node x="1120.71875" y="450.0">com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/com.cosmos:SM-manager-dao:jar:1.0-SNAPSHOT/com.github.pagehelper:pagehelper:jar:3.7.5</node>
+            <node x="1125.21875" y="370.0">com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/com.cosmos:SM-manager-dao:jar:1.0-SNAPSHOT/com.github.pagehelper:pagehelper:jar:3.7.5/com.github.jsqlparser:jsqlparser:jar:0.9.1</node>
+            <node x="943.71875" y="450.0">com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/com.cosmos:SM-manager-dao:jar:1.0-SNAPSHOT/mysql:mysql-connector-java:jar:5.1.32</node>
+            <node x="1378.71875" y="450.0">com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/com.cosmos:SM-manager-dao:jar:1.0-SNAPSHOT/com.alibaba:druid:jar:1.0.10</node>
+            <node x="503.3741589506173" y="370.0">com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/org.springframework:spring-context:jar:4.1.3.RELEASE</node>
+            <node x="657.71875" y="280.0">com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/org.springframework:spring-context:jar:4.1.3.RELEASE/org.springframework:spring-aop:jar:4.1.3.RELEASE</node>
+            <node x="724.792152777778" y="180.0">com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/org.springframework:spring-context:jar:4.1.3.RELEASE/org.springframework:spring-aop:jar:4.1.3.RELEASE/aopalliance:aopalliance:jar:1.0</node>
+            <node x="596.3991589506172" y="80.0">com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/org.springframework:spring-context:jar:4.1.3.RELEASE/org.springframework:spring-core:jar:4.1.3.RELEASE</node>
+            <node x="576.8991589506172" y="0.0">com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/org.springframework:spring-context:jar:4.1.3.RELEASE/org.springframework:spring-core:jar:4.1.3.RELEASE/commons-logging:commons-logging:jar:1.2</node>
+            <node x="774.71875" y="280.0">com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/org.springframework:spring-context:jar:4.1.3.RELEASE/org.springframework:spring-expression:jar:4.1.3.RELEASE</node>
+            <node x="391.37415895061736" y="180.0">com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/org.springframework:spring-beans:jar:4.1.3.RELEASE</node>
+            <node x="638.8586959876549" y="550.0">com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/org.springframework:spring-webmvc:jar:4.1.3.RELEASE</node>
+            <node x="650.3586959876549" y="450.0">com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/org.springframework:spring-webmvc:jar:4.1.3.RELEASE/org.springframework:spring-web:jar:4.1.3.RELEASE</node>
+            <node x="190.0" y="370.0">com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/org.springframework:spring-jdbc:jar:4.1.3.RELEASE</node>
+            <node x="191.37415895061736" y="280.0">com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/org.springframework:spring-jdbc:jar:4.1.3.RELEASE/org.springframework:spring-tx:jar:4.1.3.RELEASE</node>
+            <node x="1835.507368827161" y="550.0">com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/org.springframework:spring-aspects:jar:4.1.3.RELEASE</node>
+            <node x="1837.507368827161" y="450.0">com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/org.springframework:spring-aspects:jar:4.1.3.RELEASE/org.aspectj:aspectjweaver:jar:1.8.4</node>
+            <node x="315.37415895061736" y="450.0">com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/org.springframework:spring-context-support:jar:4.1.3.RELEASE</node>
+            <node x="1668.5907021604942" y="370.0">com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/com.cosmos:SM-common:jar:1.0-SNAPSHOT</node>
+            <node x="1365.84375" y="280.0">com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/com.cosmos:SM-common:jar:1.0-SNAPSHOT/joda-time:joda-time:jar:2.5</node>
+            <node x="1219.84375" y="280.0">com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/com.cosmos:SM-common:jar:1.0-SNAPSHOT/org.apache.commons:commons-lang3:jar:3.3.2</node>
+            <node x="1759.0253626543217" y="280.0">com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/com.cosmos:SM-common:jar:1.0-SNAPSHOT/commons-net:commons-net:jar:3.3</node>
+            <node x="1606.0253626543217" y="280.0">com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/com.cosmos:SM-common:jar:1.0-SNAPSHOT/com.fasterxml.jackson.core:jackson-databind:jar:2.4.2</node>
+            <node x="1672.0253626543217" y="180.0">com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/com.cosmos:SM-common:jar:1.0-SNAPSHOT/com.fasterxml.jackson.core:jackson-databind:jar:2.4.2/com.fasterxml.jackson.core:jackson-annotations:jar:2.4.0</node>
+            <node x="1545.0253626543217" y="180.0">com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/com.cosmos:SM-common:jar:1.0-SNAPSHOT/com.fasterxml.jackson.core:jackson-databind:jar:2.4.2/com.fasterxml.jackson.core:jackson-core:jar:2.4.2</node>
+            <node x="1891.0253626543217" y="280.0">com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/com.cosmos:SM-common:jar:1.0-SNAPSHOT/com.googlecode.json-simple:json-simple:jar:1.1.1</node>
+            <node x="1912.5253626543217" y="180.0">com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/com.cosmos:SM-common:jar:1.0-SNAPSHOT/com.googlecode.json-simple:json-simple:jar:1.1.1/junit:junit:jar:4.12</node>
+            <node x="1288.5282021604942" y="650.0">jstl:jstl:jar:1.2</node>
+            <node x="136.0" y="550.0">javax.servlet:servlet-api:jar:2.5</node>
+            <node x="123.25" y="650.0">javax.servlet:jsp-api:jar:2.0</node>
+            <node x="2010.0253626543217" y="280.0">commons-fileupload:commons-fileupload:jar:1.3.1</node>
+            <node x="2033.5253626543217" y="180.0">commons-fileupload:commons-fileupload:jar:1.3.1/commons-io:commons-io:jar:2.2</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/com.cosmos:SM-common:jar:1.0-SNAPSHOT" target="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/com.cosmos:SM-common:jar:1.0-SNAPSHOT/com.fasterxml.jackson.core:jackson-databind:jar:2.4.2">
+              <point x="-8.916666666666629" y="-15.0" />
+              <point x="1713.1740354938274" y="330.0" />
+              <point x="1672.5253626543217" y="330.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT" target="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/org.springframework:spring-jdbc:jar:4.1.3.RELEASE">
+              <point x="-66.9375" y="-15.0" />
+              <point x="584.7961959876549" y="630.0" />
+              <point x="239.5" y="630.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/com.cosmos:SM-manager-dao:jar:1.0-SNAPSHOT" target="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/com.cosmos:SM-manager-dao:jar:1.0-SNAPSHOT/com.github.pagehelper:pagehelper:jar:3.7.5">
+              <point x="-42.5" y="-15.0" />
+              <point x="1444.2336959876548" y="520.0" />
+              <point x="1170.21875" y="520.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/org.springframework:spring-context:jar:4.1.3.RELEASE" target="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/org.springframework:spring-context:jar:4.1.3.RELEASE/org.springframework:spring-expression:jar:4.1.3.RELEASE">
+              <point x="43.5" y="-15.0" />
+              <point x="604.8741589506174" y="350.0" />
+              <point x="808.96875" y="350.0" />
+              <point x="-34.25" y="15.0" />
+            </edge>
+            <edge source="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/org.springframework:spring-context-support:jar:4.1.3.RELEASE" target="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/org.springframework:spring-beans:jar:4.1.3.RELEASE">
+              <point x="0.0" y="-15.0" />
+              <point x="398.87415895061736" y="260.0" />
+              <point x="439.06165895061736" y="260.0" />
+              <point x="-6.8125" y="15.0" />
+            </edge>
+            <edge source="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/com.cosmos:SM-manager-dao:jar:1.0-SNAPSHOT" target="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/com.cosmos:SM-common:jar:1.0-SNAPSHOT">
+              <point x="42.5" y="-15.0" />
+              <point x="1529.2336959876548" y="520.0" />
+              <point x="1624.84375" y="520.0" />
+              <point x="1624.84375" y="430.0" />
+              <point x="1686.4240354938274" y="430.0" />
+              <point x="-35.66666666666663" y="15.0" />
+            </edge>
+            <edge source="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/com.cosmos:SM-manager-dao:jar:1.0-SNAPSHOT" target="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/com.cosmos:SM-manager-dao:jar:1.0-SNAPSHOT/org.mybatis:mybatis:jar:3.2.8">
+              <point x="25.5" y="-15.0" />
+              <point x="1512.2336959876548" y="510.0" />
+              <point x="1613.21875" y="510.0" />
+              <point x="19.25" y="15.0" />
+            </edge>
+            <edge source="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/com.cosmos:SM-manager-dao:jar:1.0-SNAPSHOT/com.github.pagehelper:pagehelper:jar:3.7.5" target="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/com.cosmos:SM-manager-dao:jar:1.0-SNAPSHOT/com.github.pagehelper:pagehelper:jar:3.7.5/com.github.jsqlparser:jsqlparser:jar:0.9.1">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/org.springframework:spring-context:jar:4.1.3.RELEASE" target="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/org.springframework:spring-beans:jar:4.1.3.RELEASE">
+              <point x="-43.5" y="-15.0" />
+              <point x="517.8741589506174" y="350.0" />
+              <point x="533.3407021604941" y="350.0" />
+              <point x="533.3407021604941" y="250.0" />
+              <point x="466.31165895061736" y="250.0" />
+              <point x="20.4375" y="15.0" />
+            </edge>
+            <edge source="com.cosmos:SM-manager-web-dubbo:1.0-SNAPSHOT" target="commons-fileupload:commons-fileupload:jar:1.3.1">
+              <point x="75.41666666666663" y="-15.0" />
+              <point x="552.7441126543214" y="720.0" />
+              <point x="2124.0253626543217" y="720.0" />
+              <point x="38.0" y="15.0" />
+            </edge>
+            <edge source="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/com.cosmos:SM-common:jar:1.0-SNAPSHOT" target="commons-fileupload:commons-fileupload:jar:1.3.1">
+              <point x="44.58333333333337" y="-15.0" />
+              <point x="1766.6740354938274" y="350.0" />
+              <point x="2048.0253626543217" y="350.0" />
+              <point x="-38.0" y="15.0" />
+            </edge>
+            <edge source="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/org.springframework:spring-aspects:jar:4.1.3.RELEASE" target="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/org.springframework:spring-aspects:jar:4.1.3.RELEASE/org.aspectj:aspectjweaver:jar:1.8.4">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/com.cosmos:SM-manager-dao:jar:1.0-SNAPSHOT/com.github.miemiedev:mybatis-paginator:jar:1.2.15" target="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/com.cosmos:SM-manager-dao:jar:1.0-SNAPSHOT/com.github.miemiedev:mybatis-paginator:jar:1.2.15/org.slf4j:slf4j-api:jar:1.7.2">
+              <point x="-34.75" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/org.springframework:spring-jdbc:jar:4.1.3.RELEASE" target="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/org.springframework:spring-jdbc:jar:4.1.3.RELEASE/org.springframework:spring-tx:jar:4.1.3.RELEASE">
+              <point x="0.0" y="-15.0" />
+              <point x="239.5" y="350.0" />
+              <point x="233.37415895061736" y="350.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.cosmos:SM-manager-web-dubbo:1.0-SNAPSHOT" target="junit:junit:jar:4.11">
+              <point x="-75.41666666666674" y="-15.0" />
+              <point x="401.910779320988" y="720.0" />
+              <point x="58.0" y="720.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/com.cosmos:SM-manager-dao:jar:1.0-SNAPSHOT" target="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/com.cosmos:SM-manager-dao:jar:1.0-SNAPSHOT/org.mybatis:mybatis-spring:jar:1.2.2">
+              <point x="-25.5" y="-15.0" />
+              <point x="1461.2336959876548" y="510.0" />
+              <point x="1299.21875" y="510.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/org.springframework:spring-jdbc:jar:4.1.3.RELEASE/org.springframework:spring-tx:jar:4.1.3.RELEASE" target="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/org.springframework:spring-context:jar:4.1.3.RELEASE/org.springframework:spring-core:jar:4.1.3.RELEASE">
+              <point x="-21.0" y="-15.0" />
+              <point x="212.37415895061736" y="150.0" />
+              <point x="624.176936728395" y="150.0" />
+              <point x="-22.22222222222217" y="15.0" />
+            </edge>
+            <edge source="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/com.cosmos:SM-manager-dao:jar:1.0-SNAPSHOT" target="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/com.cosmos:SM-manager-dao:jar:1.0-SNAPSHOT/com.alibaba:druid:jar:1.0.10">
+              <point x="-8.5" y="-15.0" />
+              <point x="1478.2336959876548" y="500.0" />
+              <point x="1410.21875" y="500.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/com.cosmos:SM-manager-dao:jar:1.0-SNAPSHOT" target="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/com.cosmos:SM-manager-dao:jar:1.0-SNAPSHOT/mysql:mysql-connector-java:jar:5.1.32">
+              <point x="-59.5" y="-15.0" />
+              <point x="1427.2336959876548" y="530.0" />
+              <point x="1022.21875" y="530.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.cosmos:SM-manager-web-dubbo:1.0-SNAPSHOT" target="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT">
+              <point x="15.083333333333371" y="-15.0" />
+              <point x="492.4107793209881" y="700.0" />
+              <point x="651.7336959876549" y="700.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT" target="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/org.springframework:spring-context-support:jar:4.1.3.RELEASE">
+              <point x="-28.6875" y="-15.0" />
+              <point x="623.0461959876549" y="610.0" />
+              <point x="398.87415895061736" y="610.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/com.cosmos:SM-manager-dao:jar:1.0-SNAPSHOT/com.cosmos:SM-manager-pojo:jar:1.0-SNAPSHOT" target="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/com.cosmos:SM-common:jar:1.0-SNAPSHOT">
+              <point x="0.0" y="-15.0" />
+              <point x="1705.34375" y="430.0" />
+              <point x="1722.0907021604942" y="430.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/com.cosmos:SM-common:jar:1.0-SNAPSHOT" target="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/com.cosmos:SM-common:jar:1.0-SNAPSHOT/com.googlecode.json-simple:json-simple:jar:1.1.1">
+              <point x="26.75" y="-15.0" />
+              <point x="1748.8407021604942" y="340.0" />
+              <point x="1940.5253626543217" y="340.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT" target="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/org.springframework:spring-context:jar:4.1.3.RELEASE">
+              <point x="-9.5625" y="-15.0" />
+              <point x="642.1711959876549" y="600.0" />
+              <point x="561.25" y="600.0" />
+              <point x="561.25" y="430.0" />
+              <point x="546.8741589506174" y="430.0" />
+              <point x="-14.5" y="15.0" />
+            </edge>
+            <edge source="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/org.springframework:spring-jdbc:jar:4.1.3.RELEASE/org.springframework:spring-tx:jar:4.1.3.RELEASE" target="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/org.springframework:spring-beans:jar:4.1.3.RELEASE">
+              <point x="21.0" y="-15.0" />
+              <point x="254.37415895061736" y="230.0" />
+              <point x="398.18665895061736" y="230.0" />
+              <point x="-47.6875" y="15.0" />
+            </edge>
+            <edge source="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/com.cosmos:SM-manager-dao:jar:1.0-SNAPSHOT" target="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/com.cosmos:SM-manager-dao:jar:1.0-SNAPSHOT/com.github.miemiedev:mybatis-paginator:jar:1.2.15">
+              <point x="8.5" y="-15.0" />
+              <point x="1495.2336959876548" y="500.0" />
+              <point x="1531.21875" y="500.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/org.springframework:spring-context:jar:4.1.3.RELEASE" target="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/org.springframework:spring-context:jar:4.1.3.RELEASE/org.springframework:spring-aop:jar:4.1.3.RELEASE">
+              <point x="14.5" y="-15.0" />
+              <point x="575.8741589506174" y="340.0" />
+              <point x="681.96875" y="340.0" />
+              <point x="-24.25" y="15.0" />
+            </edge>
+            <edge source="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT" target="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/org.springframework:spring-beans:jar:4.1.3.RELEASE">
+              <point x="-47.8125" y="-15.0" />
+              <point x="603.9211959876549" y="620.0" />
+              <point x="304.87415895061736" y="620.0" />
+              <point x="304.87415895061736" y="250.0" />
+              <point x="425.43665895061736" y="250.0" />
+              <point x="-20.4375" y="15.0" />
+            </edge>
+            <edge source="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT" target="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/org.springframework:spring-webmvc:jar:4.1.3.RELEASE">
+              <point x="9.5625" y="-15.0" />
+              <point x="661.2961959876549" y="600.0" />
+              <point x="699.3586959876549" y="600.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.cosmos:SM-manager-web-dubbo:1.0-SNAPSHOT" target="jstl:jstl:jar:1.2">
+              <point x="45.25" y="-15.0" />
+              <point x="522.5774459876548" y="710.0" />
+              <point x="1312.5282021604942" y="710.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/org.springframework:spring-context:jar:4.1.3.RELEASE/org.springframework:spring-core:jar:4.1.3.RELEASE" target="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/org.springframework:spring-context:jar:4.1.3.RELEASE/org.springframework:spring-core:jar:4.1.3.RELEASE/commons-logging:commons-logging:jar:1.2">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/org.springframework:spring-webmvc:jar:4.1.3.RELEASE" target="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/org.springframework:spring-beans:jar:4.1.3.RELEASE">
+              <point x="-48.40000000000009" y="-15.0" />
+              <point x="650.9586959876548" y="530.0" />
+              <point x="492.8741589506173" y="530.0" />
+              <point x="492.8741589506173" y="260.0" />
+              <point x="452.68665895061736" y="260.0" />
+              <point x="6.8125" y="15.0" />
+            </edge>
+            <edge source="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/org.springframework:spring-context-support:jar:4.1.3.RELEASE" target="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/org.springframework:spring-context:jar:4.1.3.RELEASE">
+              <point x="55.66666666666674" y="-15.0" />
+              <point x="454.5408256172841" y="430.0" />
+              <point x="517.8741589506174" y="430.0" />
+              <point x="-43.5" y="15.0" />
+            </edge>
+            <edge source="junit:junit:jar:4.11" target="junit:junit:jar:4.11/org.hamcrest:hamcrest-core:jar:1.3">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/org.springframework:spring-context:jar:4.1.3.RELEASE/org.springframework:spring-aop:jar:4.1.3.RELEASE" target="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/org.springframework:spring-context:jar:4.1.3.RELEASE/org.springframework:spring-aop:jar:4.1.3.RELEASE/aopalliance:aopalliance:jar:1.0">
+              <point x="32.33333333333326" y="-15.0" />
+              <point x="738.5520833333333" y="260.0" />
+              <point x="773.792152777778" y="260.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/org.springframework:spring-webmvc:jar:4.1.3.RELEASE" target="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/org.springframework:spring-context:jar:4.1.3.RELEASE/org.springframework:spring-expression:jar:4.1.3.RELEASE">
+              <point x="24.200000000000045" y="-15.0" />
+              <point x="723.5586959876549" y="520.0" />
+              <point x="877.46875" y="520.0" />
+              <point x="34.25" y="15.0" />
+            </edge>
+            <edge source="commons-fileupload:commons-fileupload:jar:1.3.1" target="commons-fileupload:commons-fileupload:jar:1.3.1/commons-io:commons-io:jar:2.2">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/org.springframework:spring-context:jar:4.1.3.RELEASE" target="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/org.springframework:spring-context:jar:4.1.3.RELEASE/org.springframework:spring-core:jar:4.1.3.RELEASE">
+              <point x="-14.5" y="-15.0" />
+              <point x="546.8741589506174" y="330.0" />
+              <point x="647.21875" y="330.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/org.springframework:spring-webmvc:jar:4.1.3.RELEASE/org.springframework:spring-web:jar:4.1.3.RELEASE" target="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/org.springframework:spring-context:jar:4.1.3.RELEASE/org.springframework:spring-aop:jar:4.1.3.RELEASE">
+              <point x="12.25" y="-15.0" />
+              <point x="711.6086959876549" y="430.0" />
+              <point x="730.46875" y="430.0" />
+              <point x="24.25" y="15.0" />
+            </edge>
+            <edge source="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/org.springframework:spring-webmvc:jar:4.1.3.RELEASE" target="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/org.springframework:spring-webmvc:jar:4.1.3.RELEASE/org.springframework:spring-web:jar:4.1.3.RELEASE">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/com.cosmos:SM-common:jar:1.0-SNAPSHOT" target="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/com.cosmos:SM-common:jar:1.0-SNAPSHOT/org.apache.commons:commons-lang3:jar:3.3.2">
+              <point x="-44.58333333333337" y="-15.0" />
+              <point x="1677.507368827161" y="350.0" />
+              <point x="1282.84375" y="350.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/org.springframework:spring-context-support:jar:4.1.3.RELEASE" target="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/org.springframework:spring-context:jar:4.1.3.RELEASE/org.springframework:spring-core:jar:4.1.3.RELEASE">
+              <point x="-55.66666666666674" y="-15.0" />
+              <point x="343.2074922839506" y="430.0" />
+              <point x="166.25" y="430.0" />
+              <point x="166.25" y="130.0" />
+              <point x="601.9547145061729" y="130.0" />
+              <point x="-44.44444444444434" y="15.0" />
+            </edge>
+            <edge source="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT" target="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/com.cosmos:SM-common:jar:1.0-SNAPSHOT">
+              <point x="47.8125" y="-15.0" />
+              <point x="699.5461959876549" y="620.0" />
+              <point x="1785.84375" y="620.0" />
+              <point x="1785.84375" y="430.0" />
+              <point x="1757.757368827161" y="430.0" />
+              <point x="35.66666666666663" y="15.0" />
+            </edge>
+            <edge source="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/org.springframework:spring-webmvc:jar:4.1.3.RELEASE" target="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/org.springframework:spring-context:jar:4.1.3.RELEASE/org.springframework:spring-core:jar:4.1.3.RELEASE">
+              <point x="48.40000000000009" y="-15.0" />
+              <point x="747.758695987655" y="530.0" />
+              <point x="933.21875" y="530.0" />
+              <point x="933.21875" y="130.0" />
+              <point x="690.8436033950616" y="130.0" />
+              <point x="44.44444444444434" y="15.0" />
+            </edge>
+            <edge source="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/com.cosmos:SM-manager-dao:jar:1.0-SNAPSHOT/com.github.miemiedev:mybatis-paginator:jar:1.2.15" target="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/com.cosmos:SM-manager-dao:jar:1.0-SNAPSHOT/org.mybatis:mybatis:jar:3.2.8">
+              <point x="34.75" y="-15.0" />
+              <point x="1565.96875" y="430.0" />
+              <point x="1574.71875" y="430.0" />
+              <point x="-19.25" y="15.0" />
+            </edge>
+            <edge source="com.cosmos:SM-manager-web-dubbo:1.0-SNAPSHOT" target="javax.servlet:jsp-api:jar:2.0">
+              <point x="-45.25" y="-15.0" />
+              <point x="432.07744598765476" y="710.0" />
+              <point x="159.25" y="710.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT" target="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/com.cosmos:SM-manager-dao:jar:1.0-SNAPSHOT">
+              <point x="28.6875" y="-15.0" />
+              <point x="680.4211959876549" y="610.0" />
+              <point x="1486.7336959876548" y="610.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/org.springframework:spring-webmvc:jar:4.1.3.RELEASE/org.springframework:spring-web:jar:4.1.3.RELEASE" target="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/org.springframework:spring-context:jar:4.1.3.RELEASE">
+              <point x="-36.75" y="-15.0" />
+              <point x="662.6086959876549" y="430.0" />
+              <point x="604.8741589506174" y="430.0" />
+              <point x="43.5" y="15.0" />
+            </edge>
+            <edge source="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/org.springframework:spring-context:jar:4.1.3.RELEASE/org.springframework:spring-aop:jar:4.1.3.RELEASE" target="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/org.springframework:spring-context:jar:4.1.3.RELEASE/org.springframework:spring-core:jar:4.1.3.RELEASE">
+              <point x="0.0" y="-15.0" />
+              <point x="705.292152777778" y="160.0" />
+              <point x="657.5102700617283" y="160.0" />
+              <point x="11.111111111111086" y="15.0" />
+            </edge>
+            <edge source="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/org.springframework:spring-jdbc:jar:4.1.3.RELEASE" target="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/org.springframework:spring-context:jar:4.1.3.RELEASE/org.springframework:spring-core:jar:4.1.3.RELEASE">
+              <point x="-33.0" y="-15.0" />
+              <point x="206.5" y="350.0" />
+              <point x="180.87415895061736" y="350.0" />
+              <point x="180.87415895061736" y="140.0" />
+              <point x="613.065825617284" y="140.0" />
+              <point x="-33.33333333333326" y="15.0" />
+            </edge>
+            <edge source="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/com.cosmos:SM-manager-dao:jar:1.0-SNAPSHOT" target="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/com.cosmos:SM-manager-dao:jar:1.0-SNAPSHOT/com.cosmos:SM-manager-pojo:jar:1.0-SNAPSHOT">
+              <point x="59.5" y="-15.0" />
+              <point x="1546.2336959876548" y="530.0" />
+              <point x="1705.34375" y="530.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/org.springframework:spring-beans:jar:4.1.3.RELEASE" target="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/org.springframework:spring-context:jar:4.1.3.RELEASE/org.springframework:spring-core:jar:4.1.3.RELEASE">
+              <point x="0.0" y="-15.0" />
+              <point x="445.87415895061736" y="160.0" />
+              <point x="635.2880478395061" y="160.0" />
+              <point x="-11.111111111111086" y="15.0" />
+            </edge>
+            <edge source="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/org.springframework:spring-webmvc:jar:4.1.3.RELEASE/org.springframework:spring-web:jar:4.1.3.RELEASE" target="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/org.springframework:spring-context:jar:4.1.3.RELEASE/org.springframework:spring-core:jar:4.1.3.RELEASE">
+              <point x="36.75" y="-15.0" />
+              <point x="736.1086959876549" y="430.0" />
+              <point x="922.21875" y="430.0" />
+              <point x="922.21875" y="140.0" />
+              <point x="679.7324922839505" y="140.0" />
+              <point x="33.33333333333326" y="15.0" />
+            </edge>
+            <edge source="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/com.cosmos:SM-common:jar:1.0-SNAPSHOT/com.googlecode.json-simple:json-simple:jar:1.1.1" target="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/com.cosmos:SM-common:jar:1.0-SNAPSHOT/com.googlecode.json-simple:json-simple:jar:1.1.1/junit:junit:jar:4.12">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/com.cosmos:SM-common:jar:1.0-SNAPSHOT" target="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/com.cosmos:SM-common:jar:1.0-SNAPSHOT/joda-time:joda-time:jar:2.5">
+              <point x="-26.75" y="-15.0" />
+              <point x="1695.3407021604942" y="340.0" />
+              <point x="1409.84375" y="340.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/org.springframework:spring-context:jar:4.1.3.RELEASE/org.springframework:spring-expression:jar:4.1.3.RELEASE" target="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/org.springframework:spring-context:jar:4.1.3.RELEASE/org.springframework:spring-core:jar:4.1.3.RELEASE">
+              <point x="0.0" y="-15.0" />
+              <point x="843.21875" y="150.0" />
+              <point x="668.6213811728394" y="150.0" />
+              <point x="22.22222222222217" y="15.0" />
+            </edge>
+            <edge source="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/com.cosmos:SM-common:jar:1.0-SNAPSHOT/com.fasterxml.jackson.core:jackson-databind:jar:2.4.2" target="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/com.cosmos:SM-common:jar:1.0-SNAPSHOT/com.fasterxml.jackson.core:jackson-databind:jar:2.4.2/com.fasterxml.jackson.core:jackson-core:jar:2.4.2">
+              <point x="-33.25" y="-15.0" />
+              <point x="1639.2753626543217" y="260.0" />
+              <point x="1598.5253626543217" y="260.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/com.cosmos:SM-common:jar:1.0-SNAPSHOT/com.fasterxml.jackson.core:jackson-databind:jar:2.4.2" target="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/com.cosmos:SM-common:jar:1.0-SNAPSHOT/com.fasterxml.jackson.core:jackson-databind:jar:2.4.2/com.fasterxml.jackson.core:jackson-annotations:jar:2.4.0">
+              <point x="33.25" y="-15.0" />
+              <point x="1705.7753626543217" y="260.0" />
+              <point x="1746.5253626543217" y="260.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/org.springframework:spring-jdbc:jar:4.1.3.RELEASE" target="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/org.springframework:spring-beans:jar:4.1.3.RELEASE">
+              <point x="33.0" y="-15.0" />
+              <point x="272.5" y="350.0" />
+              <point x="285.87415895061736" y="350.0" />
+              <point x="285.87415895061736" y="240.0" />
+              <point x="411.81165895061736" y="240.0" />
+              <point x="-34.0625" y="15.0" />
+            </edge>
+            <edge source="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/org.springframework:spring-webmvc:jar:4.1.3.RELEASE" target="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/org.springframework:spring-context:jar:4.1.3.RELEASE">
+              <point x="-24.200000000000045" y="-15.0" />
+              <point x="675.1586959876548" y="520.0" />
+              <point x="584.7741589506172" y="520.0" />
+              <point x="584.7741589506172" y="430.0" />
+              <point x="575.8741589506174" y="430.0" />
+              <point x="14.5" y="15.0" />
+            </edge>
+            <edge source="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/org.springframework:spring-webmvc:jar:4.1.3.RELEASE/org.springframework:spring-web:jar:4.1.3.RELEASE" target="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/org.springframework:spring-beans:jar:4.1.3.RELEASE">
+              <point x="-12.25" y="-15.0" />
+              <point x="687.1086959876549" y="420.0" />
+              <point x="635.3991589506172" y="420.0" />
+              <point x="635.3991589506172" y="240.0" />
+              <point x="479.93665895061736" y="240.0" />
+              <point x="34.0625" y="15.0" />
+            </edge>
+            <edge source="com.cosmos:SM-manager-web-dubbo:1.0-SNAPSHOT" target="javax.servlet:servlet-api:jar:2.5">
+              <point x="-15.083333333333371" y="-15.0" />
+              <point x="462.2441126543214" y="700.0" />
+              <point x="205.75" y="700.0" />
+              <point x="23.25" y="15.0" />
+            </edge>
+            <edge source="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/org.springframework:spring-context:jar:4.1.3.RELEASE/org.springframework:spring-aop:jar:4.1.3.RELEASE" target="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/org.springframework:spring-beans:jar:4.1.3.RELEASE">
+              <point x="-32.33333333333326" y="-15.0" />
+              <point x="673.8854166666667" y="230.0" />
+              <point x="493.56165895061736" y="230.0" />
+              <point x="47.6875" y="15.0" />
+            </edge>
+            <edge source="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT" target="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/org.springframework:spring-aspects:jar:4.1.3.RELEASE">
+              <point x="66.9375" y="-15.0" />
+              <point x="718.6711959876549" y="630.0" />
+              <point x="1894.507368827161" y="630.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/com.cosmos:SM-common:jar:1.0-SNAPSHOT" target="com.cosmos:SM-manager-service:jar:1.0-SNAPSHOT/com.cosmos:SM-common:jar:1.0-SNAPSHOT/commons-net:commons-net:jar:3.3">
+              <point x="8.916666666666629" y="-15.0" />
+              <point x="1731.007368827161" y="330.0" />
+              <point x="1815.0253626543217" y="330.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="javax.servlet:jsp-api:jar:2.0" target="javax.servlet:servlet-api:jar:2.5">
+              <point x="0.0" y="-15.0" />
+              <point x="-23.25" y="15.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.4921003717472119" x="1066.0" y="596.0" />
+          <SelectedNodes>
+            <node>com.cosmos:SM-manager-web-dubbo:1.0-SNAPSHOT</node>
+            <node>commons-fileupload:commons-fileupload:jar:1.3.1/commons-io:commons-io:jar:2.2</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>All</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SM-manager/SM-manager-serviceImpl/src/main/resources/spring/applicationContext-tx.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="16" column="70" selection-start-line="16" selection-start-column="70" selection-end-line="16" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SM-manager/SM-manager-serviceImpl/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="924">
+          <caret line="33" column="21" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SM-manager-web-dubbo/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1820">
+          <caret line="65" selection-start-line="65" selection-end-line="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SM-manager/SM-manager-serviceImpl/src/main/resources/spring/applicationContext-service.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="8" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SM-manager-web-dubbo/src/main/resources/springmvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1120">
+          <caret line="40" column="59" selection-start-line="40" selection-start-column="59" selection-end-line="40" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generatorSqlmapCustom/src/com/sm/pojo/TbItemCatExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SM-parent/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="252" column="25" selection-start-line="252" selection-start-column="25" selection-end-line="252" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SM-manager/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>SM-manager-serviceImpl:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>spring-web-4.2.4.RELEASE-sources</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>SM-manager-serviceImpl</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2245345" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.github.sgroschupf:zkclient:0.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2245345" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.40087622" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="$PROJECT_DIR$/SM-manager" />
+    <option value="-U idea:idea" />
+    <option value="mvc -U idea:idea" />
+    <option value="dependency:tree" />
+  </component>
+</project>

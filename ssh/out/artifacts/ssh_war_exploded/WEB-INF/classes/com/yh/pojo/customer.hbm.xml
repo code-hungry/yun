@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC 
+    "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+    "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<!-- 配置对象和关系映射，类与表的映射 -->
+<!-- 
+	package:指定一个包名。在hibernate-mapping元素内部需要写类名时，不用在写权限定名称。
+ -->
+<hibernate-mapping package="com.yh.pojo">
+	<class name="Customer" table="customer" >
+		<!-- id元素：配置主键映射的属性 
+			name：指定对象的属性名称。
+			可选属性
+			column：表中的字段名称（列名）
+			type:配置java类型，也可以配置Hibernate的类型。sql-type数据库类型
+		-->
+		<id name="cid"  >
+			<generator class="native"></generator>
+		</id>
+		<property name="name" ></property>
+		 <property name="source" ></property>
+		<property name="level"></property>
+		<property name="industry"></property>
+		<property name="userId"></property>
+		<property name="createId"></property>
+		<property name="phone"></property>
+		<property name="mobile"></property>
+		<!--配置客户和联系人的关系，一对多 
+			name属性：集合的属性名
+			column属性：外键列名
+			class属性：与当前类关联对象的类名
+			cascade属性：级联操作
+					   save-update：级联保存更新
+					   delete：级联删除
+					   all： save-update+delete
+					   简化操作，目的，少写几行代码
+		-->
+		<!-- 
+			inverse属性：配置是否维护关系。
+						true:放弃维护关系
+						false(默认值)，维护关系
+						性能优化
+						原则：不管怎么放弃，总要有一方维护关系。
+						一对多的关系中，一的一方放弃维护关系，也只能是一的一方放弃维护关系。
+			
+			lazy属性：决定是否延迟加载
+					true：懒加载，延迟，按需加载
+					false:积极，立即加载。
+					extra：极其懒惰
+			fetch属性：决定加载策略。
+					select：默认值。单表查询加载
+					join：多表查询加载集合数据
+					subselect：使用子查询来加载集合数据
+					
+		 -->
+		<!--<many-to-one name="source" column="source" class="Dictionary"></many-to-one>
+		<many-to-one name="level" column="level" class="Dictionary"></many-to-one>
+		<many-to-one name="industry" column="industry" ></many-to-one>-->
+		<set name="linkmen">
+			<key column="cid"></key>
+			<one-to-many class="Linkman"/>
+		</set>
+	</class>
+</hibernate-mapping>

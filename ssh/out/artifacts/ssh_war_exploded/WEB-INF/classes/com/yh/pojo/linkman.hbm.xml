@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC 
+    "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+    "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<!-- 配置对象和关系映射，类与表的映射 -->
+<!-- 
+	package:指定一个包名。在hibernate-mapping元素内部需要写类名时，不用在写权限定名称。
+ -->
+<hibernate-mapping>
+	<class name="com.yh.pojo.Linkman" table="linkman">
+		<id name="lid"  >
+			<generator class="native"></generator>
+		</id>
+		<property name="name" ></property>
+		<property name="gender" ></property>
+		<property name="phone"></property>
+		<property name="mobile"></property>
+		<property name="email"></property>
+		<property name="qq"></property>
+		<property name="position"></property>
+		<property name="memo"></property>
+		<!--配置客户和联系人的关系，多对一的关系
+			name属性：引用对象的属性名
+			column属性：外键列名
+			class属性：与当前类关联对象的类名
+		-->
+		<many-to-one name="customer" column="cid" class="com.yh.pojo.Customer"  cascade="save-update"></many-to-one>
+	</class>
+</hibernate-mapping>

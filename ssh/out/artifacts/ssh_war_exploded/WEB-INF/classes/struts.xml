@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE struts PUBLIC
+	"-//Apache Software Foundation//DTD Struts Configuration 2.3//EN"
+	"http://struts.apache.org/dtds/struts-2.3.dtd">
+<struts>
+	  <!-- struts.devMode = false  是否开启开发者模式 -->
+	  <constant name="struts.devMode" value="false"></constant>
+	  <!-- struts.objectFactory = spring -->
+	  <!-- 将action对象交给spring管理 -->
+	 <!--  <constant name="struts.objectFactory" value="spring"></constant> -->
+	<!--  struts.objectFactory.spring.autoWire = name   spring负责按名称装配依赖管理-->
+	<!-- 整合两种方案：1、struts自己创建action对象，spring管理依赖关系。默认是这种 不推荐使用
+					2、action对象创建，依赖注入都交给spring管理
+	-->
+
+	  <package name="ssh" namespace="/" extends="struts-default">
+	  	<global-exception-mappings>
+	  		<exception-mapping result="loginError" exception="java.lang.RuntimeException"></exception-mapping>
+	  	</global-exception-mappings>
+	  	<action name="UserAction_*" class="userAction" method="{1}">
+	  		<result name="toHome">/index.jsp</result>
+	  		<result name="loginError">/login.jsp</result>
+	  	</action>
+	  	<action name="CustomerAction_*" class="customerAction" method="{1}">
+			<!--转发或重定向-->
+	  		<result name="toList" type="redirectAction">
+             <param name="actionName">CustomerAction_listCustomer</param>
+             <param name="namespace">/</param>
+	  		</result>
+	  		<result name="tolistPage">/jsp/customer/list.jsp</result>
+	  	</action>
+	  	<action name="LinkmanAction_*" class="linkmanAction" method="{1}">
+	  		<result name="toAddPage" >/jsp/linkman/add.jsp</result>
+	  		<result name="tolistPage">/jsp/customer/list.jsp</result>
+	  	</action>
+	  </package>
+</struts>
+
